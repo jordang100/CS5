@@ -1,0 +1,60 @@
+0 *X** -> E 0 
+0 *E*X -> S 0
+0 *E*S -> X 1
+
+1 x*** -> N 1   
+1 N*X* -> W 2
+1 N*W* -> S 2
+
+2 ***x -> S 2   
+2 **XS -> W 1   
+2 **WS -> X 3
+
+3 x*** -> N 3   
+3 NX** -> E 4
+3 NE** -> S 4
+
+4 ***x -> S 4   
+4 *x*S -> E 3   
+4 *E*S -> X 5
+
+5 x**x -> N 5
+5 xExS -> W 6
+5 Nx** -> E 6
+5 NE** -> W 2
+
+6 XXX* -> W 6
+6 XXW* -> N 6
+6 NXWX -> E 7
+
+7 *XXX -> S 7
+7 XXXS -> E 8
+7 NEXX -> W 9
+7 XEXX -> S 10
+
+8 XXX* -> N 8
+8 NXX* -> E 7
+8 XXWX -> N 3
+
+9 **X* -> W 9
+9 **W* -> X 3
+
+10 XEXX -> S 10
+10 XXXX -> E 10
+10 NEXX -> S 11
+
+11 *XXX -> W 11
+11 *XWX -> S 11
+11 *XWS -> E 12
+
+12 *X** -> E 12
+12 *E** -> N 13
+
+13 xxxx -> E 14
+
+14 XXX* -> N 14
+14 NXXX -> E 15
+
+15 *X*X -> S 15
+15 *X*S -> E 15
+15 XEXS -> W 0
