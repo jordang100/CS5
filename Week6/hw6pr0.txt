@@ -1,0 +1,9 @@
+Reading choice 1: Grace Hopper and The education of a Computer
+
+The first drawback Hopper states still exists as when you import a library, all small amount of time is done to do so (which could accumulate with more and more libraries). However, the second drawback as Hopper addresses, “if a desired subroutine does not exist, it must be programmed and added to the library” is becoming less of an issue in today’s world. Programming languages such as Python, C++, and Java have extensive libraries (such as #include<math>, import time, etc…) because of the large amount of programmers. Additionally, Hopper did not include a very obvious advantage of high-level languages - it’s easier to manipulate as you can set a constant and change it whenever you want, whereas in assembly, you must go through all the lines and replace the variables. Hence, programming is easier to learn and is a growing field (also a “very useful skill, almost mandatory in today’s world” according to my friends). 
+
+Reading choice 2: Is Technology Addictive? Detrimental? Worthwhile? All of the Above?
+
+I was surprised when the article stated, “An internal Facebook report leaked this year, for example, revealed that the company can identify when teens feel “insecure”, “worthless” and “need a confidence boost”. I understood that social media could track your search history and give you ads based on those interests but was surprised they actually labeled users and tailored the app to those users. In addition, my position is neutral between Tristan Harris and Nir Eyal. Though I believe manipulating apps to be addictive can be harmful, it is also a necessary tool in today’s tech industry.
+
+ 
