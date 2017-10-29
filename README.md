@@ -1,7 +1,6 @@
 # CS5
 
-Homework for Harvey Mudd's Introductory Python course. 
-
+*Homework for Harvey Mudd's Introductory Python course.*
 
 Week 0: Basics and PicoBot
 
