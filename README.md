@@ -2,6 +2,7 @@
 
 Homework for Harvey Mudd's Introductory Python course. 
 
+
 Week 0: Basics and PicoBot
 
 Week 1: Patterns and Functions
