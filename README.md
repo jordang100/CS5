@@ -17,3 +17,7 @@ Week 5: Multiplication Madness! (Circuits)
 Week 6: Hmmm... Assembly Language Programming!
 
 Week 8: Loops!
+
+Week 9: 2D Arrays and Mutable Data
+
+Week 10: Classes and Objects
