@@ -21,3 +21,5 @@ Week 8: Loops!
 Week 9: 2D Arrays and Mutable Data
 
 Week 10: Classes and Objects
+
+Week 11: Humans and Software: UIs and AIs
