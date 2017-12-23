@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Created with JFLAP 6.4.--><structure>
+	<type>fa</type>
+	<automaton>
+		<!--The list of states.-->
+		<state id="0" name="q0">
+			<x>51.0</x>
+			<y>149.0</y>
+			<initial/>
+			<final/>
+		</state>
+		<state id="1" name="q1">
+			<x>136.0</x>
+			<y>123.0</y>
+		</state>
+		<state id="2" name="q2">
+			<x>230.0</x>
+			<y>121.0</y>
+			<final/>
+		</state>
+		<state id="3" name="q3">
+			<x>332.0</x>
+			<y>119.0</y>
+			<final/>
+		</state>
+		<state id="4" name="q4">
+			<x>429.0</x>
+			<y>120.0</y>
+			<final/>
+		</state>
+		<state id="5" name="q5">
+			<x>510.0</x>
+			<y>146.0</y>
+		</state>
+		<!--The list of transitions.-->
+		<transition>
+			<from>1</from>
+			<to>2</to>
+			<read>0</read>
+		</transition>
+		<transition>
+			<from>0</from>
+			<to>0</to>
+			<read>1</read>
+		</transition>
+		<transition>
+			<from>1</from>
+			<to>1</to>
+			<read>1</read>
+		</transition>
+		<transition>
+			<from>2</from>
+			<to>2</to>
+			<read>1</read>
+		</transition>
+		<transition>
+			<from>3</from>
+			<to>3</to>
+			<read>1</read>
+		</transition>
+		<transition>
+			<from>4</from>
+			<to>4</to>
+			<read>1</read>
+		</transition>
+		<transition>
+			<from>5</from>
+			<to>5</to>
+			<read>1</read>
+		</transition>
+		<transition>
+			<from>3</from>
+			<to>4</to>
+			<read>0</read>
+		</transition>
+		<transition>
+			<from>0</from>
+			<to>1</to>
+			<read>0</read>
+		</transition>
+		<transition>
+			<from>2</from>
+			<to>3</to>
+			<read>0</read>
+		</transition>
+		<transition>
+			<from>4</from>
+			<to>5</to>
+			<read>0</read>
+		</transition>
+		<transition>
+			<from>5</from>
+			<to>0</to>
+			<read>0</read>
+		</transition>
+		<note>
+			<text>part3.jff:   Create a FSM that accepts strings with any number of 1s...</text>
+			<x>8.0</x>
+			<y>11.0</y>
+		</note>
+		<note>
+			<text>... but the number of 0s must be a multiple of 2, of 3, or of both</text>
+			<x>8.0</x>
+			<y>30.0</y>
+		</note>
+	</automaton>
+</structure>
